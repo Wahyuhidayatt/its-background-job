@@ -1,5 +1,4 @@
 const kue = require('kue');
-// const redis = require('redis');
 const queue = kue.createQueue();
 
 const api_key = 'key-dc9c01674b3c394829bb4fc8a06cc4f0';
